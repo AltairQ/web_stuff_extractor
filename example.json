@@ -1,0 +1,8 @@
+{
+	"url": "http://.me",
+	"element": "source.get('src')",
+	"regex": "uploads/", 
+	"output": "dump.txt",
+	"unique": false,
+	"delay": 100
+}
