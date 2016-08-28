@@ -1,8 +1,8 @@
 {
-	"url": "http://.me",
+	"url": "http://mywebsite.com",
 	"element": "source.get('src')",
-	"regex": "uploads/", 
-	"output": "dump.txt",
+	"regex": "somepath/(.*).extensionmaybe", 
+	"output": "outputfilename.txt",
 	"unique": false,
 	"delay": 100
 }
